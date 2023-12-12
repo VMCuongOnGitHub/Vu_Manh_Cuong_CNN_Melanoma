@@ -42,34 +42,34 @@ The data contains these images group:
 
 ## Steps Involved
 
-1/ Importing Skin Cancer Data
-2/ Importing all the important libraries
-3/ Load using keras.preprocessing
-4/ Create a dataset
-5/ Visualize the data
-6/ Create the model
-7/ Compile the model
-8/ Train the model
-9/ Visualizing training results
-10/ Write findings after the model fit, see if there is an evidence of model overfit or underfit
-10.1/ Write findings in the step 9
-10.2/ Create the model, compile and train the model
-10.2.1/ Compiling the model
-10.2.2/ Training the model
-11/ Visualizing the results
-11.1/ Write findings after the model fit, see if there is an evidence of model overfit or underfit. Do you think there is some improvement now as compared to the previous model run?
-11.2/ Find the distribution of classes in the training dataset.
-11.3/ Write findings in the step 11
-11.4/ Rectify the class imbalance
-12/ Lets see the distribution of augmented data after adding new images to the original training data.
-12.1/ Train the model on the data created using Augmentor
-12.2/ Create a training dataset
-12.3/ Create a validation dataset
-12.4/ Create model (make sure to include normalization)
-12.5/ Compile model (Choose optimizer and loss function appropriately)
-12.6/ Train model
-12.7/ Visualize the model results
-12.8/ Analyze results
+- 1/ Importing Skin Cancer Data
+- 2/ Importing all the important libraries
+- 3/ Load using keras.preprocessing
+- 4/ Create a dataset
+- 5/ Visualize the data
+- 6/ Create the model
+- 7/ Compile the model
+- 8/ Train the model
+- 9/ Visualizing training results
+- 10/ Write findings after the model fit, see if there is an evidence of model overfit or underfit
+- 10.1/ Write findings in the step 9
+- 10.2/ Create the model, compile and train the model
+- 10.2.1/ Compiling the model
+- 10.2.2/ Training the model
+- 11/ Visualizing the results
+- 11.1/ Write findings after the model fit, see if there is an evidence of model overfit or underfit. Do you think there is some improvement now as compared to the previous model run?
+- 11.2/ Find the distribution of classes in the training dataset.
+- 11.3/ Write findings in the step 11
+- 11.4/ Rectify the class imbalance
+- 12/ Lets see the distribution of augmented data after adding new images to the original training data.
+- 12.1/ Train the model on the data created using Augmentor
+- 12.2/ Create a training dataset
+- 12.3/ Create a validation dataset
+- 12.4/ Create model (make sure to include normalization)
+- 12.5/ Compile model (Choose optimizer and loss function appropriately)
+- 12.6/ Train model
+- 12.7/ Visualize the model results
+- 12.8/ Analyze results
 
 ## Results
 
