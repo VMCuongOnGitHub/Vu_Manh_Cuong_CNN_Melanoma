@@ -76,16 +76,19 @@ The data contains these images group:
 ### Baseline Model
 
 Accuracy and Loss charts for the baseline model
+
 ![Alt text](1.png)
 
 ### Augmented Model
 
 Accuracy and Loss charts for the augmented model
+
 ![Alt text](2.png)
 
 ### Final Model
 
 Accuracy and Loss charts for the final model
+
 ![Alt text](3.png)
 
 # Conclusion
